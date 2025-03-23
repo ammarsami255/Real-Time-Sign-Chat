@@ -15,9 +15,6 @@ Real-Time Sign Chat is a Python-based application that provides:
 ✅ Displays images corresponding to recognized words.
 ✅ User-friendly GUI built with `customtkinter`.
 
-## 📷 Demo
-![App Screenshot](https://via.placeholder.com/600x300.png?text=Real-Time+Sign+Chat+Demo)
-
 ## 🛠️ Installation
 ### 1️⃣ Clone the Repository
 ```bash
